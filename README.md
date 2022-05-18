@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Noran Hany</h1>
 <h3 align="center">A passionate computer engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nouranhany&label=Profile%20views&color=0e75b6&style=flat" alt="nouranhany" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nouranhany&label=Profile%20views&color=0e75b6&style=flat" alt="nouranhany" /> </p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nouranhany&theme=tokyonight&show_icons=true&locale=en" alt="noran-hany" /></p>
 
 - 🔭 I’m currently working on [a market basket analysis problem.](https://www.kaggle.com/code/nouranhany10/data-science-challenge)
 
