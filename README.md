@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hany.noran10@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/12Gmfb83f4McUzsqgV43Ho-JldolVek2o/view?usp=sharing)
+- 📄 Know about my experiences [resume link](https://drive.google.com/file/d/159azx3Ll0QuzpJV5XYcuPZHHPxh5dnsr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
