@@ -5,7 +5,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nouranhany&theme=tokyonight&show_icons=true&locale=en" alt="noran-hany" /></p>
 
-- 🔭 I’m currently working as a Machine Learning Intern @ [Fotopiatech](https://www.linkedin.com/company/fotopia-tech/)
+- 🔭 I’m currently working on [my graduation project](https://www.canva.com/design/DAFVNt14PJQ/cg-ulpQo-HhB7DgvmXyTGQ/view?utm_content=DAFVNt14PJQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) which is about vehicle tracking and motion prediction in self driving cars 🚗.
 
 - 🌱 I’m currently learning **computer vision**
 
